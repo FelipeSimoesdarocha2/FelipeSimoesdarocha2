@@ -7,7 +7,7 @@
     <ul>
         <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/FelipeSimoesDaRocha2?tab=repositories" target="_blank">Github</a>.</li>
         <li>⚙️ Meu Github de desafio <a href="https://github.com/orgs/WarwickBr1" target="_blank">Devwick</a>.</li>
-        <li>💼 Precisa de ajuda em um projeto freelance? Entre em contato comigo pelo <a href="mailto:felipe.simoesdarocha@gmail.com" target="_blank">E-mail</a>.</li>
+        <li>💼 Precisa de ajuda em um projeto freelance? Entre em contato comigo pelo <a href="mailto:felipe.simoesdarocha@gmail.com">E-mail</a>.</li>
         <li>📙 Confira meu <a href="https://raw.githubusercontent.com/FelipeSimoesdarocha2/FelipeSimoesdarocha2/0c4244bfa5e8d5edaf74e7fd68faa96746878a6b/curriculo.pdf" target="_blank">Currículo</a>.</li>
         <li>🚀 Conheça a <a href="https://www.instagram.com/escolaeliti/" target="_blank">Eliti</a></li>
     </ul>
